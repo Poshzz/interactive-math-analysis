@@ -1,0 +1,24 @@
+# Node / Frontend
+node_modules/
+dist/
+.env
+.env.local
+
+# Rust / Cargo
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
